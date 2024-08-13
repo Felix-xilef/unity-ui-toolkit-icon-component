@@ -1,0 +1,35 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit%20Icon%20Component/UI/SampleStyle.uss?fileID=7433441132597879392&amp;guid=3b2fb372abd8a0043b1974293c6b01cf&amp;type=3#SampleStyle" />
+    <engine:VisualElement class="container">
+        <engine:VisualElement class="section">
+            <engine:Label text="Outlined" class="title" />
+            <engine:VisualElement class="icons-wrapper">
+                <UIToolkitIconComponent.Icon text="\u" icon-code="e8b6" icon-style="Outlined" />
+                <UIToolkitIconComponent.Icon text="\u" icon-style="Outlined" icon-code="e88a" />
+                <UIToolkitIconComponent.Icon text="\u" icon-style="Outlined" icon-code="e5d2" />
+                <UIToolkitIconComponent.Icon text="\u" icon-style="Outlined" icon-code="e5cd" />
+                <UIToolkitIconComponent.Icon text="\u" icon-style="Outlined" icon-code="e8b8" />
+            </engine:VisualElement>
+        </engine:VisualElement>
+        <engine:VisualElement class="section">
+            <engine:Label text="Rounded" class="title" />
+            <engine:VisualElement class="icons-wrapper">
+                <UIToolkitIconComponent.Icon text="\u" icon-code="e8b6" icon-style="Rounded" />
+                <UIToolkitIconComponent.Icon text="\u" icon-style="Rounded" icon-code="e88a" />
+                <UIToolkitIconComponent.Icon text="\u" icon-style="Rounded" icon-code="e5d2" />
+                <UIToolkitIconComponent.Icon text="\u" icon-style="Rounded" icon-code="e5cd" />
+                <UIToolkitIconComponent.Icon text="\u" icon-style="Rounded" icon-code="e8b8" />
+            </engine:VisualElement>
+        </engine:VisualElement>
+        <engine:VisualElement class="section">
+            <engine:Label text="Sharp" class="title" />
+            <engine:VisualElement class="icons-wrapper">
+                <UIToolkitIconComponent.Icon text="\u" icon-code="e8b6" icon-style="Sharp" />
+                <UIToolkitIconComponent.Icon text="\u" icon-style="Sharp" icon-code="e88a" />
+                <UIToolkitIconComponent.Icon text="\u" icon-style="Sharp" icon-code="e5d2" />
+                <UIToolkitIconComponent.Icon text="\u" icon-style="Sharp" icon-code="e5cd" />
+                <UIToolkitIconComponent.Icon text="\u" icon-style="Sharp" icon-code="e8b8" />
+            </engine:VisualElement>
+        </engine:VisualElement>
+    </engine:VisualElement>
+</engine:UXML>

@@ -1,0 +1,25 @@
+@import url("unity-theme://default");
+
+.icon {
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+
+  padding-top: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+}
+
+.material-icon__outlined {
+  -unity-font-definition: url("project://database/Assets/UI Toolkit Icon Component/IconFonts/Material_Symbols_Outlined/MaterialSymbolsOutlined-VariableFont_FILL,GRAD,opsz,wght.ttf?fileID=12800000&guid=8cfa67d5e6533dd4a9c1f06e2dbe5e33&type=3#MaterialSymbolsOutlined-VariableFont_FILL,GRAD,opsz,wght");
+}
+
+.material-icon__rounded {
+  -unity-font-definition: url("project://database/Assets/UI Toolkit Icon Component/IconFonts/Material_Symbols_Rounded/MaterialSymbolsRounded-VariableFont_FILL,GRAD,opsz,wght.ttf?fileID=12800000&guid=ccbf84e2b2aae134db85493ec7518255&type=3#MaterialSymbolsRounded-VariableFont_FILL,GRAD,opsz,wght");
+}
+
+.material-icon__sharp {
+  -unity-font-definition: url("project://database/Assets/UI Toolkit Icon Component/IconFonts/Material_Symbols_Sharp/MaterialSymbolsSharp-VariableFont_FILL,GRAD,opsz,wght.ttf?fileID=12800000&guid=0616d0098491e7843b7c8655f626dddf&type=3#MaterialSymbolsSharp-VariableFont_FILL,GRAD,opsz,wght");
+}
